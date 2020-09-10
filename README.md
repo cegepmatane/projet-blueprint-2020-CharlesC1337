@@ -11,6 +11,8 @@ Objet 2 : Lampadaire industrielle qui allume à l'approche (Modèle 3d fait par 
 
 Objet 3 : Goutte de pluie qui tombe du ciel sur un des targetpoints au hasard à l'appuie du bouton f (Modèle 3d fait par danfinley)
 
-Objet 4 : Balle de Fusil en jouet tirer par le personnage à l'appuie du clique gauche de la souris (Modèle 3d fait par Shamnoodles) -- Pas Encore fini d'implémenter --
+Objet 4 : Balle de Fusil en jouet tirer par le personnage à l'appuie du clique gauche de la souris avec effet d'explosion et de fumée (Modèle 3d fait par Shamnoodles)
 
 Autres objets : Conteneur (Modèle 3d fait par jrgubric)
+
+Lien vers le projet : https://drive.google.com/drive/folders/1Lm2UWeYif_tmWF9cT5uOcipY4Qotf3YP?usp=sharing
