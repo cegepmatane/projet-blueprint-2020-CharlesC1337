@@ -13,6 +13,12 @@ Objet 3 : Goutte de pluie qui tombe du ciel sur un des targetpoints au hasard à
 
 Objet 4 : Balle de Fusil en jouet tirer par le personnage à l'appuie du clique gauche de la souris avec effet d'explosion et de fumée (Modèle 3d fait par Shamnoodles)
 
-Autres objets : Conteneur (Modèle 3d fait par jrgubric)
+Objet 5 (Généré aléatoirement) : Caisse en bois (Modèle 3d fait par alexdizz)
+
+Autres objets : 
+
+Conteneur (Modèle 3d fait par jrgubric)
+
+Lumière industrielle (Modèle 3d fait par trippsmith05)
 
 Lien vers le projet : https://drive.google.com/drive/folders/1Lm2UWeYif_tmWF9cT5uOcipY4Qotf3YP?usp=sharing
