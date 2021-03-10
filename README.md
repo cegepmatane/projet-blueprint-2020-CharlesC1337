@@ -3,6 +3,8 @@ projet-blueprint-2020-CharlesC1337 created by GitHub Classroom
 
 Charles Carrier
 
+## LIEN VERS LE PROJET FINALE : https://drive.google.com/drive/folders/1Fbxq4hVXH1eOnM7xQcILM3Z0h4BAvoEN?usp=sharing
+
 Thème : Vieille entrepôt
 
 Objet 1 : Barril en feu qui explose et fait rebondir le personnage au contact (Modèle 3d fait par th3lOnewOlf)
